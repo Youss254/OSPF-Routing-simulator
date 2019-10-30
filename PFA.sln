@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PFA", "PFA.csproj", "{3818D87F-13C0-FEB7-EB03-1E57C1DF116E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PFA.Plugins", "PFA.Plugins.csproj", "{5B68E8BE-5E09-5A09-2967-A0F6010ED370}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3818D87F-13C0-FEB7-EB03-1E57C1DF116E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3818D87F-13C0-FEB7-EB03-1E57C1DF116E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3818D87F-13C0-FEB7-EB03-1E57C1DF116E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3818D87F-13C0-FEB7-EB03-1E57C1DF116E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B68E8BE-5E09-5A09-2967-A0F6010ED370}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B68E8BE-5E09-5A09-2967-A0F6010ED370}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B68E8BE-5E09-5A09-2967-A0F6010ED370}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B68E8BE-5E09-5A09-2967-A0F6010ED370}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
